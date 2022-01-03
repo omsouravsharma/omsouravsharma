@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sourav Sharma 
 - 👀 I’m interested in ... ML, AL, DS, Databases 
 - 🌱 I’m currently learning ... Machine Learning.
-- 💞️ I’m looking to collaborate on ... Data Science Projects 
+- 💞️ I’m looking to collaborate on ... Machine Learning, Data Science Projects 
 - 📫 How to reach me ... souravsharma22@protonmail.com
 
 <!---
